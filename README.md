@@ -1,2 +1,3 @@
 ## BryceRodricks
-Wait I lowkey coded this on my repo. 
+Wait I lowkey coded this on my remote
+
